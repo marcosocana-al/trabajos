@@ -37,7 +37,7 @@ p {
     margin-bottom: 20px;
 }
 
-#link {
+#button-link {
     text-decoration: none;
     color: #337ab7;
     padding: 10px 20px;
@@ -47,11 +47,11 @@ p {
     font-weight: bold;
 }
 
-#link:hover {
+#button-link:hover {
     background-color: #337ab7;
     color: #fff;
 }
 
-#link:active {
+#button-link:active {
     transform: translateY(2px);
 }
