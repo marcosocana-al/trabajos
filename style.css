@@ -37,7 +37,7 @@ p {
     margin-bottom: 20px;
 }
 
-#presentation-link {
+.link {
     text-decoration: none;
     color: #337ab7;
     padding: 10px 20px;
@@ -47,11 +47,11 @@ p {
     font-weight: bold;
 }
 
-#presentation-link:hover {
+.link:hover {
     background-color: #337ab7;
     color: #fff;
 }
 
-#presentation-link:active {
+.link:active {
     transform: translateY(2px);
 }
