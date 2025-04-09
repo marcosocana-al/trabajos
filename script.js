@@ -7,4 +7,6 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('link-nouvelles').setAttribute('target', '_blank');
   document.getElementById('link-filo-ia').setAttribute('href', 'https://docs.google.com/presentation/d/1Gj-AYC2yuAtLB0WclXwCTDCKwtDu5p8SCE5NVB4e6so/edit?usp=sharing'); //AÑADIR ENLACE
   document.getElementById('link-filo-ia').setAttribute('target', '_blank');
+  document.getElementById('link-cuadro-fr-voluntario').setAttribute('href', 'https://docs.google.com/presentation/d/1HpnvI6-DnQqgauqodIqeb5dFQdyoqcw4k35HFtwgxRQ/edit?usp=sharing'); //AÑADIR ENLACE
+  document.getElementById('link-cuadro-fr-voluntario').setAttribute('target', '_blank');
 });
