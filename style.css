@@ -31,7 +31,7 @@ main {
     background-color: rgba(255, 255, 255, 0.999); /* Adjust the alpha value (0-1) for transparency */
     border: 1px solid #ddd;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 h1 {
