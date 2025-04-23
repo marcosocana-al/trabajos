@@ -11,4 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('link-cuadro-fr-voluntario').setAttribute('target', '_blank');
   document.getElementById('foto-cuadro-fr-voluntario').setAttribute('href', 'https://github.com/marcosocana-al/trabajos/raw/refs/heads/main/i-vomit-injustice.webp'); //AÑADIR ENLACE
   document.getElementById('foto-cuadro-fr-voluntario').setAttribute('target', '_blank');
+
+document.getElementById('foto-cuadro-fr-voluntario').setAttribute('href', 'https://docs.google.com/presentation/d/1vGrFz_0vz6Yx8uj4Q2cfUfEQSABwzGlTN82htKEr2sY/edit?usp=sharing'); //AÑADIR ENLACE
+  document.getElementById('link-poema-julio-cesar').setAttribute('target', '_blank');
 });
