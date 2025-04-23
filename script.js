@@ -15,6 +15,8 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('link-poema-julio-cesar').setAttribute('target', '_blank');
   document.getElementById('link-poema-julio-cesar-2').setAttribute('href', 'https://docs.google.com/presentation/d/1BDViIntD2df0pbXRTLM_jWu9cJO_Xq1M/edit?usp=drivesdk&ouid=101560724562988379529&rtpof=true&sd=true'); //AÑADIR ENLACE
   document.getElementById('link-poema-julio-cesar-2').setAttribute('target', '_blank');
+  document.getElementById('link-poema-julio-cesar-pdf').setAttribute('href', 'https://drive.google.com/file/d/1LEgY69XWnMR0B6LvkGJR6RUzs7TjisMM/view?usp=sharing'); //AÑADIR ENLACE
+  document.getElementById('link-poema-julio-cesar-pdf').setAttribute('target', '_blank');
   document.getElementById('link-3-pictures').setAttribute('href', 'https://drive.google.com/file/d/10Z7T6E5DjMWwgAYsHcLYIJHrsv1p_39U/view?usp=sharing'); //AÑADIR ENLACE
   document.getElementById('link-3-pictures').setAttribute('target', '_blank');
 });
