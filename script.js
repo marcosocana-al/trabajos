@@ -19,4 +19,6 @@ document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('link-poema-julio-cesar-pdf').setAttribute('target', '_blank');
   document.getElementById('link-3-pictures').setAttribute('href', 'https://drive.google.com/file/d/10Z7T6E5DjMWwgAYsHcLYIJHrsv1p_39U/view?usp=sharing'); //AÑADIR ENLACE
   document.getElementById('link-3-pictures').setAttribute('target', '_blank');
+  document.getElementById('link-filo-musica').setAttribute('href', 'https://docs.google.com/presentation/d/1q80UVA6sMeK3h8LLqkilb6H5w508UsfNIt-p5nXrXzA/edit?usp=sharing'); //AÑADIR ENLACE
+  document.getElementById('link-filo-musica').setAttribute('target', '_blank');
 });
